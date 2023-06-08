@@ -2,8 +2,6 @@
 
 <!-- Banner -->
 
-## About Me
-
 Honesty, Simplicity, and Challenging Projects - these are the values that define my approach to freelancing. I'm thrilled to have you here, exploring my work and the passion I pour into every project I undertake.
 
 As a freelancer, I find joy in taking on diverse challenges that push my boundaries and allow me to constantly grow as a professional. With a keen interest in programming languages, particularly Python, HTML, CSS, JavaScript, Lua, and a few others that I have dabbled in, like Java and C#, I bring a versatile skill set to the table.
