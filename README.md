@@ -16,6 +16,7 @@ In the realm of programming, I thrive on finding elegant solutions to complex pr
 
 If you're looking for a freelancer who is passionate, reliable, and adept at tackling programming challenges head-on, then look no further. I would be thrilled to discuss how I can contribute to your next project. Get in touch, and let's embark on a journey of innovation together.
 
+- SAFCSP: [**Omar Afet**](https://profile.satr.codes/omarafet/public/overview)
 - LinkedIn: [**Omar Afet**](https://www.linkedin.com/in/OmarAfet/)
 - Twitter: [**@OmarAfet**](https://twitter.com/OmarAfet)
 
