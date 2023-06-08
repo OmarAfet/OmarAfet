@@ -1,4 +1,4 @@
-# Omar Afet - Freelance Developer
+# [**Omar Afet - Freelance Developer**](https://omarafet.github.io/Personal-Website)
 
 <!-- Banner -->
 
