@@ -12,6 +12,15 @@ My journey as a freelancer has taught me the importance of delivering high-quali
 
 In the realm of programming, I thrive on finding elegant solutions to complex problems. My expertise lies in crafting efficient code, developing user-friendly interfaces, and ensuring seamless functionality. From building robust web applications to creating captivating websites, I am passionate about leveraging technology to make a meaningful impact.
 
+## Future Plans
+I am constantly looking to enhance my skills and expand my knowledge in web development. Here are some of my future plans for this project:
+
+- **Complex Websites:** I am excited to work on more complex websites in the future. This will allow me to push the boundaries of my web development skills and explore new technologies and techniques.
+
+- **Learning Deployment:** I am eager to learn about deploying websites to make them accessible to a wider audience. This involves understanding hosting platforms, domain management, and server configurations.
+
+- **Python and Frameworks:** While I prefer using Python over JavaScript, I understand that Python is not typically used for front-end web development. However, I plan to delve deeper into Python-based web frameworks such as Flask and Django to create more dynamic and robust websites. Additionally, I am also interested in expanding my skills to include front-end development using React, to build interactive and responsive user interfaces.
+
 ## Contact Me
 
 If you're looking for a freelancer who is passionate, reliable, and adept at tackling programming challenges head-on, then look no further. I would be thrilled to discuss how I can contribute to your next project. Get in touch, and let's embark on a journey of innovation together.
