@@ -1,4 +1,4 @@
-# Omar Afet - Freelance Developer
+# Omar Afet - Freelancer Developer
 
 <!-- Banner -->
 
